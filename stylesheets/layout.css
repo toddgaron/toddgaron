@@ -111,6 +111,9 @@ color: #2f363d;}
 	@media only screen and (max-width: 767px) {
     nav {
      display: none; }
+    .no-top {
+    font-size: 48px;
+    text-align: center; }
    }
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
